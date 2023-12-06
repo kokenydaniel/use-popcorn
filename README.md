@@ -24,18 +24,14 @@ The "usePopcorn" application combines search, rating and personal list managemen
 
 ## Built in
 
-1. Vite
-2. React
-3. TailwindCSS
-4. Javascript
+1. React
+2. CSS
+3. Javascript
 
 ## What I learned
 
-Built with Vite framework using React and Tailwind CSS, many valuable lessons can be learned:
+Built with React and many valuable lessons can be learned:
 
-Vite Framework: During the project, I got to know and used the Vite framework. I learned about the structure of the Vite, the built-in functions and tools available in it. This increased my ability to create modern web applications.
-React: During this project I used React, a popular and powerful JavaScript library. I delved into component-based development, using JSX, and understanding React's state management.
-Tailwind CSS: I was introduced to this "utility-first" CSS framework while using Tailwind CSS. I learned about the benefits of dynamic styles and structuring styles within an application.
 API Integration: In the project, I used an API providing detailed information about movies and series. Through this, I learned how to query, manage and display data on the user interface.
 State management: React's state management provides an opportunity to transfer and update data between components. I used this functionality to track ratings, lists, and averages.
 User Experience (UX): During the project, I learned about the design of intuitive user interfaces and the principles of UX design. How users can easily browse, rate and follow content in the app.
